@@ -578,7 +578,7 @@ ul.nav.navbar li a {
 }
 @media(max-width:768px){ 
     body{
-        background: url(images/IMG_20210214_205939.jpg);
+        background: url(IMG_20210214_205939.jpg);
         background-size: cover;
     }
 .about-right {
