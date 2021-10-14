@@ -51,7 +51,7 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active{
 	outline:none;
 } 
 ul.nav.navbar li a:focus{ 
-	color:#fff;
+	color:black;
 	background:transparent;
 	outline:none;
 } 
