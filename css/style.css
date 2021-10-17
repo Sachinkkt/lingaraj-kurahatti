@@ -31,6 +31,10 @@ body a:hover{
 .top-nav {
 
 }
+.emoji:hover
+{
+    background: url(https://www.pngkey.com/png/detail/446-4467033_download-wink-emoji-png-clipart-emoji-emoticon-emoji.png);
+}
 .nav > li {
     display: inline-block;
     padding: 1.5em 2em;
