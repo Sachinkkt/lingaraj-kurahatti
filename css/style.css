@@ -33,7 +33,7 @@ body a:hover{
 }
 #emoji:hover
 {
-    background: url(https://www.pngkey.com/png/detail/446-4467033_download-wink-emoji-png-clipart-emoji-emoticon-emoji.png);
+    background: black;
 }
 .nav > li {
     display: inline-block;
