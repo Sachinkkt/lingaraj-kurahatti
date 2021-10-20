@@ -490,11 +490,11 @@ p {
    
 }
 .footer p {
-    color:black;
+    color:rgb(243, 204, 32);
 	font-size: 1.1em;
 }
 .footer p a{
-    color: #1dadd3;
+    color: #5ce924;
 }
 .footer p a:hover{
     color: #fff;
