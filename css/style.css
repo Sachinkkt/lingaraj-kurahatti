@@ -100,7 +100,8 @@ ul.nav.navbar li a.w3ls-icon:hover {
 }
 .banner-text h1 {
     font-size: 3.5em;
-    color: rgba(28, 183, 245, 0.932);
+    color: black;
+    text-shadow: 0px 2px 10px blue;
 	font-weight: 900;
 }
 .banner-text h6 {
