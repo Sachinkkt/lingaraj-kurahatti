@@ -102,7 +102,7 @@ ul.nav.navbar li a.w3ls-icon:hover {
 .banner-text h1 {
     font-size: 3.5em;
     color: black;
-    text-shadow: 0px 0px 5px blue;
+    text-shadow: 0px 0px 2px blue;
 	font-weight: 900;
 }
 .banner-text h6 {
