@@ -579,7 +579,7 @@ ul.nav.navbar li a {
 @media(max-width:768px){ 
     /*--mobile background image--*/
     body{
-        background: url("IMG_20211020_113416.jpg");
+        background: url(images/IMG_20211020_113416.jpg);
         background-size: cover;
     }
 .about-right {
